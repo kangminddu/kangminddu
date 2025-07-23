@@ -1,4 +1,3 @@
-
 ### 💻 My Skills
 <p>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
@@ -21,8 +20,8 @@
 ---
 
 ### 🏆 Awards
-- 🥈 은상 - 2021 전남대 기초창의설계경진대회
-- 🚗 진행 중 - 2025 HL FMA (Future Mobility Award) Autonomous Driving Competition
+- 🥈 **은상** - 2021 전남대 기초창의설계경진대회
+- 🚗 **진행 중** - 2025 HL FMA (Future Mobility Award) Autonomous Driving Competition
 
 ---
 
@@ -42,6 +41,19 @@
   전남대학교 차세대통신혁신융합대학사업단  
   `2025.01.20 ~ 2025.01.24`  
   ┗ MATLAB을 이용한 5G 통신장비 운용
+
+---
+
+### 💡 Projects
+
+- 🤖 **손 제스처 기반 슬라이드 프레젠테이션 제어 시스템**  
+  MediaPipe + OpenCV + PyAutoGUI 기반, 직관적인 발표 제어 구현
+
+- 🌦️ **IoT 스마트 윈도우 자동 제어 시스템**  
+  빗물, 조도, 가스 센서 기반 창문 자동 개폐 시스템 with Arduino
+
+- 🧪 **DrugBank XML → MySQL 파싱 시스템**  
+  Python + SQLAlchemy를 사용한 ERD 기반 데이터 파싱 및 관계형 DB 구축
 
 ---
 
