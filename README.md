@@ -5,6 +5,8 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Arduino_IDE-00979D?style=flat-square&logo=arduino&logoColor=white" />
 </p>
 
 ---
@@ -22,6 +24,14 @@
 ### 🏆 Awards
 - 🥈 **은상** - 2021 전남대 기초창의설계경진대회
 - 🚗 **진행 중** - 2025 HL FMA (Future Mobility Award) Autonomous Driving Competition
+
+---
+
+### 🎓 Education
+- 마재초등학교 졸업  
+- 광주송원중학교 졸업  
+- 광주인성고등학교 졸업  
+- 전남대학교 컴퓨터정보통신공학과 **3학년 재학 중**
 
 ---
 
