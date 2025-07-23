@@ -1,10 +1,3 @@
-<h1 align="center">👋 Minsoo Kang</h1>
-
-### 📘 Blog & Tech
-[![Velog](https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white)](https://velog.io/@yourID)
-[![Naver Blog](https://img.shields.io/badge/Naver_Blog-03C75A?style=flat-square&logo=naver&logoColor=white)](https://blog.naver.com/yourID)
-
----
 
 ### 💻 My Skills
 <p>
