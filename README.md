@@ -69,7 +69,7 @@
 
 ### 📊 GitHub Stats
 
-![Minsoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourGitHubID&show_icons=true&theme=dark)
+![Minsoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=kangminddu&show_icons=true&theme=dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourGitHubID&layout=compact&theme=dark)](https://github.com/yourGitHubID)
 
 ---
