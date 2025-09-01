@@ -52,6 +52,8 @@
   `2025.01.20 ~ 2025.01.24`  
   ┗ MATLAB을 이용한 5G 통신장비 운용
 
+- **데이터 크리에이터 캠프** 참여중
+  K-ICT(빅데이터센터) 주관
 ---
 
 ### 💡 Projects
@@ -65,6 +67,8 @@
 - 🧪 **DrugBank XML → MySQL 파싱 시스템**  
   Python + SQLAlchemy를 사용한 ERD 기반 데이터 파싱 및 관계형 DB 구축
 
+- 가상 MRI 시뮬레이터 기술 개발(2025 하계 인턴십 기업 메리핸드)
+  MRISIMUL 논문을 참고한 KomaMRI, Sycomore 등을 활용한 기술
 ---
 
 ### 📊 GitHub Stats
